@@ -54,9 +54,9 @@ This curated list aggregates both enterprise **SaaS EDR/XDR platforms** and cutt
 
 > **💡 Open-Source Ecosystem**: The open-source EDR ecosystem is emerging rapidly, ranging from SQL-powered OS instrumentation (`Osquery`, `Fleet`) and full open SIEM/EDR stacks (`Wazuh`) to specialized Rust & eBPF sensors (`Warden`, `Radegast EDR`) and autonomous AI-triage engines (`AEGIS`).
 
-*Projects below are sorted by GitHub Star count in descending order.*
+*Projects below are sorted by GitHub Stars_Count in descending order.*
 
-| Repo | Description | Stars |
+| Repo | Description | GitHub_Stars |
 |------|-------------|-------|
 | **[Osquery](https://github.com/osquery/osquery)** | **SQL-powered operating system instrumentation & telemetry.** Exposes an OS as a high-performance relational database. Allows security engineers to write SQL queries to inspect process tables, active network sockets, loaded kernel modules, and system configurations across Windows, macOS, and Linux. | [![Stars](https://img.shields.io/github/stars/osquery/osquery?style=social&color=white)](https://github.com/osquery/osquery/stargazers) |
 | **[Wazuh](https://github.com/wazuh/wazuh)** | **Unified open-source security platform with full EDR & SIEM capabilities.** Performs log analysis, file integrity monitoring (FIM), vulnerability detection, threat hunting, and automated incident response actions across endpoints and cloud workloads. | [![Stars](https://img.shields.io/github/stars/wazuh/wazuh?style=social&color=white)](https://github.com/wazuh/wazuh/stargazers) |
@@ -77,7 +77,7 @@ Contributions are welcome! Follow these quick steps to submit new EDR tools, ope
 
 1. 🍴 **Fork the repository**.
 2. 📝 **Add or update entries in `README.md`** (following the established table format).
-3. 🔗 **Include details**: Name, homepage/GitHub link, 1–2 sentence description, star badge (if open-source), and pricing tier (if SaaS).
+3. 🔗 **Include details**: Name, homepage/GitHub link, 1–2 sentence description, Stars_Badge (if open-source), and pricing tier (if SaaS).
 4. 🚀 **Submit a Pull Request (PR)** with a concise summary of changes.
 
 ---
